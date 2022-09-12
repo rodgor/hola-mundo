@@ -2,6 +2,6 @@
 
 Mi primer repositorio en GitHub
 
-I love 🐶, 🍺, 🏀 and ⚽
+I love 🐶, 🍺, 🏀, ⚽, 🎵, 🚴
 
-I hate ☀️, 🏐, 🧀
+I hate ☀️, 🏐, 🧀, 
