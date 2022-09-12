@@ -2,4 +2,6 @@
 
 Mi primer repositorio en GitHub
 
-I love :dog:, :beer:, :basketball: and :movie:
+I love 🐶, 🍺, 🏀 and ⚽
+
+I hate ☀️, 🏐, 🧀
